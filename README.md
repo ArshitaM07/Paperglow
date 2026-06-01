@@ -25,7 +25,7 @@ PaperGlow is a modern note-taking web application built with React and Vite. It 
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/PaperGlow.git
+git clone https://github.com/ArshitaM07/PaperGlow.git
 ```
 
 ### Navigate to the project
