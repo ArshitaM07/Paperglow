@@ -52,15 +52,6 @@ npm run dev
 npm run build
 ```
 
-
-## 🎯 Future Improvements
-
-* AI-powered note summaries
-* Cloud synchronization
-* User authentication
-* Rich text editor
-* Note categories and tags
-
 ## 👩‍💻 Author
 
 Arshita Mishra
