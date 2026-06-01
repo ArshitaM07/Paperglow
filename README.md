@@ -1,16 +1,68 @@
-# React + Vite
+# 📖 PaperGlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PaperGlow is a modern note-taking web application built with React and Vite. It provides a clean writing experience with note organization features and persistent local storage.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Create new notes
+* Edit note titles and content
+* Delete notes
+* Search notes instantly
+* Pin important notes
+* Theme switching (Dark, Light, Vintage)
+* Automatic local storage persistence
+* Responsive and clean UI
 
-## React Compiler
+## 🛠️ Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* Vite
+* JavaScript
+* Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/PaperGlow.git
+```
+
+### Navigate to the project
+
+```bash
+cd PaperGlow
+```
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start development server
+
+```bash
+npm run dev
+```
+
+### Build for production
+
+```bash
+npm run build
+```
+
+
+## 🎯 Future Improvements
+
+* AI-powered note summaries
+* Cloud synchronization
+* User authentication
+* Rich text editor
+* Note categories and tags
+
+## 👩‍💻 Author
+
+Arshita Mishra
+
+Built as a React learning project and portfolio application.
